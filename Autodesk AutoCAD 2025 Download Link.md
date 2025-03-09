@@ -5,7 +5,7 @@
 https://edutrial.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/99E57530-7CC1-31F4-89E9-24175C7690C2/SFX/AutoCAD_2025_English_Win_64bit_db_002_002.7z   
 ## Spanish:
 
-https://edutrial.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/BCB62D9B-14E0-3933-927C-4FA4BAFDA43B/SFX/AutoCAD_2025_Spanish Win_64bit_db_002_002.7z   
+https://edutrial.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/BCB62D9B-14E0-3933-927C-4FA4BAFDA43B/SFX/AutoCAD_2025_Spanish_Win_64bit_db_002_002.7z   
 ## French:
 
 https://edutrial.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/14748722-BFE6-3CCD-9049-D34DE0D1F387/SFX/AutoCAD_2025_French_Win_64bit_db_002_002.7z   
